@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 videoOverlay.classList.add('playing');
                 
                 // Redirect user to the affiliate offer page in a new tab only when playing
-                window.open('https://to.dordir.com/5A0I/2J2B7/', '_blank');
+                window.open('http://ml.pixuva.com/u?p=1', '_blank');
             } else {
                 // Pause and show the neon overlay button
                 promoVideo.pause();
